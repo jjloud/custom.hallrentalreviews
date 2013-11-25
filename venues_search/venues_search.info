@@ -1,0 +1,4 @@
+name = Venues Search
+description = Way to search by zipcode. 
+core = 7.x
+dependencies[] = ctools
